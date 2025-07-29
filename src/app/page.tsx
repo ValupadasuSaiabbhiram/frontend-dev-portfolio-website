@@ -13,7 +13,7 @@ export default function Portfolio() {
     {
       title: 'Portfolio Website',
       description: 'Personal portfolio built with Angular and Tailwind CSS',
-      link: 'https://saiabbhiram.dev',
+      link: 'https://github.com/ValupadasuSaiabbhiram/frontend-dev-portfolio-website',
       linkLabel: 'Visit Website'
     }
   ];
