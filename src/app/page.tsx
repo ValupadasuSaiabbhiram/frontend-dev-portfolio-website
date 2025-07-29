@@ -34,7 +34,7 @@ export default function Portfolio() {
     <main className="min-h-dvh bg-background p-6">
       <header className="text-center py-10">
         <h1 className="text-4xl font-bold text-foreground">Sai Abbhiram Valupadasu</h1>
-        <p className="text-lg text-muted-foreground">Angular Frontend Developer</p>
+        <p className="text-lg text-muted-foreground">Frontend Developer</p>
         <div className="flex justify-center mt-4 gap-4">
           <Button variant="ghost" size="icon" asChild>
             <a href="https://github.com/saiabbhiram" aria-label="GitHub">
