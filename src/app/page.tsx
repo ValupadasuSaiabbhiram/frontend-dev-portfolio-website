@@ -37,17 +37,17 @@ export default function Portfolio() {
         <p className="text-lg text-muted-foreground">Frontend Developer</p>
         <div className="flex justify-center mt-4 gap-4">
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://github.com/saiabbhiram" aria-label="GitHub">
+            <a href="https://github.com/ValupadasuSaiabbhiram" aria-label="GitHub">
               <Github className="size-5" />
             </a>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <a href="mailto:saiabbhiram@example.com" aria-label="Email">
+            <a href="mailto:valupadasusaiabbhiram@gmail.com" aria-label="Email">
               <Mail className="size-5" />
             </a>
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://linkedin.com/in/saiabbhiram" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/sai-abbhiram-valupadasu" aria-label="LinkedIn">
               <Linkedin className="size-5" />
             </a>
           </Button>
